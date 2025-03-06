@@ -1,0 +1,7 @@
+.contador{
+    display: flex;
+    justify-content: flex-start;
+    color: black;
+    font-size: 12px;
+    background-color: white;
+}
